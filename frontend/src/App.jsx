@@ -33,7 +33,7 @@ function App() {
     }
   };
 
-  // for teseting :  Just in case if we need to reset
+  // for testing :  Just in case if we need to reset
   // const resetInventory = async () => {
   //   setLoading(true);
   //   setMessage("");
